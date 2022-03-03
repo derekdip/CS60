@@ -1,0 +1,36 @@
+Data:
+    building blocks of info
+Information:
+    product of raw data's meaning
+
+Database:
+    shared integrated computer structure that stores
+        End-userData
+        Metadata:Data about data, which end-user data are integrated and manages
+    Database management system (DBMS) hasura?
+        collection of programs
+        manages db structure
+        controls access to data storeed in db
+DBMS:
+    middle man of user and db
+
+
+Structural dependence:
+    The access to a file depends on the structure it was built as
+Structural independence:
+    If file structure has changed no affect is present to access the data
+
+Data Redundancy:
+    data stored more than one in different places
+Islands of information: 
+    Scattered data locations
+    better to keep information in groups than to have a ton of info not connected
+    Poor data security
+    Data inconsistency
+
+Data Anomaly:
+    update
+    insertion
+    deletion
+
+
