@@ -1,0 +1,45 @@
+Determination
+    value of one attribute can detemine the value of another
+
+Dependencies
+    Functional dependence
+        1:1 or 1:m or m:m attributes determine other attributes
+
+        -Determinant
+        -Dependent
+    Full functional dependence
+        all determinants are needed to populate the dependant
+
+Keys
+    Used to point at a specific row of a table
+    
+    Primary Key
+        point to a row of a table
+    Key Types
+        Composite Key
+            points to one or more attributes
+        Key attribute
+            attribute that needs to be defined for the row
+        Entity integrity
+            condition  that each row of a table is unique  
+                no two keys are the same 
+                key attributes are defined
+        Null
+            absence of data
+        Referential integrity
+            Every reference to an entity instance by another entity instance is valid
+        Secondary key
+            used strictly for data retrieval purposes
+
+Null Handling
+    Flags
+        Special codes used to indicate the absence of some value
+    NOT NULL constraint
+        values in the column must be defined
+    UNIQUE constraint
+        no two values in a column have the same value
+
+Relational Algebra
+    way of manipulating table contents with relational operators
+
+    Relvar
