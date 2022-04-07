@@ -35,3 +35,13 @@ Relationship Strength
     Strong `baseball player has a ball and the ball has their name on it`
         Primary key of the related entity contains a primary key component of the parent entity
 
+
+# Relationship Participation
+    Optional
+        an entity doesn't need another to exist
+    Manditory
+        an entity needs another entity to exist
+    
+# Relationship Degree
+    Indicates the number of entities with a relashionship
+    
